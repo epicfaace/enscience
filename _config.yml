@@ -14,7 +14,9 @@ markdown: kramdown
 safe: false
 redirects: yes
 
-pgCategories: Chemistry
+pgCategories:
+- 'Chemistry'
+- 'Geology'
 
 gems:
   - jekyll-redirect-from

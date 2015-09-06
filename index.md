@@ -10,16 +10,22 @@ Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my no
 
 
 
-<table width="100%">
-{% for page in site.pages %}
-	{% if page.category == 'Chemistry' %}
-	<tr>
-	<td>{{page.category}}</td>
-    <td><a href="{{ page.url }}">{{ page.title }}</td>
-</tr>
-{%endif%}
-{% endfor %}
-</table>
+<ul>
+	{% for categ in site.pgCategories %}
+	<li>
+		{{categ}}
+		<ul>
+			{% for page in site.pages %}
+				{% if page.category == categ %}
+					<li>
+						<a href="{{ page.url }}">{{ page.title }}</a>
+					</li>
+				{%endif%}
+			{% endfor %}
+		</ul>
+	</li>
+	{% endfor %}
+</ul>
 
 <!--
 
