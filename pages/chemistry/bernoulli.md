@@ -30,7 +30,7 @@ $$P_2 = \frac{1}{2}\rho v_1^2 + P_1$$
 $$P_2$$ is known as the ***stagnation pressure***.
 
 ####Pitot tubes
-***Pitot tubes*** make use of stagnation pressure to measure velocity. When stagnation pressure and P1 and measured, you can calculate the initial velocity (v).
+***Pitot tubes*** make use of stagnation pressure to measure velocity. When stagnation pressure and $P_1$ are measured, you can calculate the initial velocity (v).
 
 <img src="/images/pitot.png">
 

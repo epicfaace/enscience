@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+$base-font-family: "Lucida Sans", "Lucida Grande", sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -23,6 +23,9 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
+$vocab-color:	#A90506;
+$vocab-size:	$base-font-size * 1.1;
 
 
 

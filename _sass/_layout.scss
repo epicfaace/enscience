@@ -240,3 +240,8 @@
     position:absolute;
     z-index:1;
 }
+
+strong em {
+    color: $vocab-color;
+    font-size: $vocab-size;
+}

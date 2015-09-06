@@ -2,7 +2,7 @@
 title: Enscience
 email: aramaswamis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  An online science encyclopedia that includes notes on various topics in math and science. It is useful for quizbowl, or even just for those interested in learning new things in a new way.
+  An online science encyclopedia that includes notes on various topics in math and science. Still a work in progress.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "enscience.me" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
