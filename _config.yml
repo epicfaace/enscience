@@ -17,6 +17,7 @@ redirects: yes
 pgCategories:
 - 'Chemistry'
 - 'Geology'
+- 'Astronomy'
 
 gems:
   - jekyll-redirect-from

@@ -1,0 +1,2 @@
+Ferrel cell
+Hadley cell

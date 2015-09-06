@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Fluid dynamics
-category: Chemistry
+#category: Chemistry
 permalink: /fluids/
 ---
 
