@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Fluid dynamics
 category: Chemistry
 permalink: /fluids/

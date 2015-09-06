@@ -10,11 +10,11 @@ Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my no
 
 
 
-<table border width="100%">
+<table width="100%">
 {% for page in site.pages %}
-	{% if page.title %}
+	{% if page.category == 'Chemistry' %}
 	<tr>
-	<td>{{page.category | strip_newlines}}</td>
+	<td>{{page.category}}</td>
     <td><a href="{{ page.url }}">{{ page.title }}</td>
 </tr>
 {%endif%}

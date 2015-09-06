@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Markdown guide
-category: Misc
 permalink: /md/
 tag: Chemistry
-alias: [/altMD/]
 ---
 
 # The largest heading (an <h1> tag)

@@ -1,0 +1,7 @@
+<ul>
+{% for page in site.pages %}
+  {% if page.title %}
+  <li class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</li>
+  {% endif %}
+{% endfor %}
+</ul>

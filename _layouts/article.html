@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+
+
+{% capture my_include %}
+
+* hi
+{:toc}
+
+{{page.content}}
+{% endcapture %}
+
+
+{{ my_include | markdownify }}
