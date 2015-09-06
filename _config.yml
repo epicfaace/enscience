@@ -15,9 +15,14 @@ safe: false
 redirects: yes
 
 pgCategories:
+- 'Biology'
 - 'Chemistry'
+- 'Physics'
+- 'Math'
 - 'Geology'
 - 'Astronomy'
+- 'Computer science'
+- 'Other'
 
 gems:
   - jekyll-redirect-from
