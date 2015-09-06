@@ -1,0 +1,41 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    
+
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container-fluid">
+        <a class="navbar-brand hidden-xs" href="{{ site.baseurl }}/">The <b>En</b>cyclopedia of <b>Science</b></a>
+        <a class="navbar-brand visible-xs" href="{{ site.baseurl }}/">Ensci</a>
+        <div class="">
+          <ul class="nav navbar-nav">
+            {% for pg in site.pages %}
+            {% if pg.title =='About' %}
+              <li {% if pg.title == page.title %}class="active"{% endif %}>
+                <a href="{{site.baseurl}}{{pg.url}}">About</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Article Index
+              <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                {% for pg in site.pages %}
+                {% if pg.category %}
+                <li {% if pg.title == page.title %}class="active"{% endif %}>
+                  <a href="{{site.baseurl}}{{pg.url}}">{{pg.title}}</a></li>
+                {% endif %}
+                {% endfor %}
+              </ul>
+            </li>        
+
+          </ul>
+        </div><!--collapse-->
+      </div>
+    </nav>
+
+  </div>
+
+</header>

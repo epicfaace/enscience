@@ -245,3 +245,14 @@ strong em {
     color: $vocab-color;
     font-size: $vocab-size;
 }
+
+@media (min-width:768px) {
+
+    body {padding-top:50px}
+    .navbar-static-top {position:fixed;top:0;right:0;left:0;}
+
+}
+
+.navbar {
+    
+}

@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: "Lucida Sans", "Lucida Grande", sans-serif;
-$base-font-size:   16px;
+$base-font-size:   15px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -26,6 +26,13 @@ $on-laptop:        800px;
 
 $vocab-color:	#A90506;
 $vocab-size:	$base-font-size * 1.1;
+
+//navbar
+$bgDefault      : #ffffff;
+$bgHighlight    : #dedede;
+$colDefault     : #004444;
+$colHighlight   : #008888;
+$dropDown       : false;
 
 
 
