@@ -7,7 +7,7 @@ permalink: /Bernoulli/
 
 ###Introduction
 Bernoulli's equation -- based on conservation of energy --
-<img src="/Images/bernoul.gif">
+[bern]("/Images/bernoul.gif")
 
 ###Venturi effect
 <img src="/Images/Venturi.PNG">

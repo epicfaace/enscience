@@ -12,10 +12,12 @@ Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my no
 
 <table border width="100%">
 {% for page in site.pages %}
+	{% if page.title %}
 	<tr>
 	<td>{{page.category | strip_newlines}}</td>
     <td><a href="{{ page.url }}">{{ page.title }}</td>
 </tr>
+{%endif%}
 {% endfor %}
 </table>
 
