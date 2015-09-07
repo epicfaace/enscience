@@ -248,7 +248,7 @@ strong em {
 
 @media (min-width:768px) {
 
-    body {padding-top:50px}
+    body {/*padding-top:50px*/}
     .navbar-static-top {position:fixed;top:0;right:0;left:0;}
 
 }
@@ -262,7 +262,7 @@ img.center {
 }
 
 body {
-    /*background: url('/images/Science-background.jpg')*/
+    background: url('/images/Science-background.jpg')
 }
 
 img.small {
