@@ -1,0 +1,38 @@
+---
+layout: article
+title: Perfect Numbers
+category:  Mathematics
+permalink: /perfect_nums/
+redirect_from: [/mersenne/]
+---
+
+##Definition
+A ***perfect number*** is a number that is equal to the sum of its proper divisors – that is, all its factors excluding the number itself. For example, 6 is a perfect number because its proper factors are 1, 2, and 3:
+
+$$6 = 3 + 2 + 1$$
+
+###List of first few perfect numbers
+* 6
+* 28
+* 496
+* 8128
+
+It is not known if any odd perfect numbers exist.
+
+##Euclid-Euler Theorem (Mersenne Primes)
+The ***Euclid–Euler theorem*** says that every even perfect number can be written in the form:
+
+$$2^{p-1}(2^p - 1)$$
+
+when p is prime. $$2^p - 1$$ is also known as a ***Mersenne prime***. Therefore, there is a one-to-one relationship between even perfect numbers and Mersenne primes. Using the formula, all perfect numbers can be generated from Mersenne primes, and vice versa.
+
+###Binary representation
+When a Mersenne prime is equal to $$2^p - 1$$, its binary representation is just $$p$$ 1's. For example, $$2^5 - 1 = 11111$$ in binary.
+
+Since a perfect number is just a Mersenne prime times 2^(k-1), it adds $$k-1$$ zeroes to the end of the number. So the binary representation of a perfect number $$2^{p-1}(2^p - 1)$$ is $$p$$ 1's followed by $$p-1$$ zeroes.
+
+For example, $$496 = 2^4*(2^5-1) = 111110000$$ in binary (5 ones followed by 4 zeroes).
+
+##Sources
+* [Perfect Number - MathWorld](http://mathworld.wolfram.com/PerfectNumber.html)
+* [Binary representation of perfect numbers](http://www.math.psu.edu/tseng/class/Math140H/PerfectNum.html)

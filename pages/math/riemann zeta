@@ -1,0 +1,43 @@
+---
+layout: article
+title: Riemann zeta function
+category:  Mathematics
+permalink: /Riemann_zeta/
+redirect_from: []
+---
+
+##Definition
+The ***Riemann zeta function*** $$\zeta (s)$$ is defined as:
+
+$$\zeta (s) = \sum_{n=1}^{\infty} \frac{1}{n^s}$$
+
+It is basically an extension of the ***harmonic series*** ($$\frac{1}{1} + \frac{1}{2} + \frac{1}{3} ...$$) to higher powers.
+
+$$\zeta (1) = \frac{1}{1} + \frac{1}{2} + \frac{1}{3} ...$$
+
+$$\zeta (2) = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} ...$$
+
+$$\zeta (-1) = 1 + 2 + 3 ...$$
+
+##Specific values
+
+$$\zeta (-1) = - \frac{1}{12}$$ because of a crazy proof given by Ramanujan! This value does have some use in string theory, though.
+
+$$\zeta (1) = \infty$$ because the harmonic series diverges.
+
+$$\zeta (2) = \frac{\pi ^2}{6}$$. The problem of finding an exact sum for this value is known as ***Basel's problem***, which was solved by Leonhard Euler.
+
+$$\zeta (3) = \frac{\pi ^2}{6}$$. This value has been given the name ***Apery's constant***. No one has been able to find an analytic (exact) solution to this yet.
+
+##Riemann hypothesis
+The ***Riemann hypothesis*** is one of the most important unsolved problems in number theory. It states that every non-trivial zero of the function $$\zeta (s)$$ has real part $$\frac{1}{2}$$.
+
+The ***trivial zeroes*** of $$\zeta (s)$$ are multiples of -2n (-2, -4, -6, ...). The Riemann hypothesis conjectures that if $$z$$ is a complex number such that $$\zeta (z) = 0$$ (and not a trivial zero), its real part must be one-half.
+
+##Relatively prime integers
+When $$n$$ numbers are picked randomly, the probability that they will be relatively prime (GCD is 1) is equal to:
+
+$$P(n) = \frac{1}{\zeta (n)}$$
+
+##Sources
+[Riemann zeta function - Wikipedia](https://en.wikipedia.org/wiki/Riemann_zeta_function)

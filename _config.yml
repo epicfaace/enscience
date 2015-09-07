@@ -18,10 +18,10 @@ pgCategories:
 - 'Biology'
 - 'Chemistry'
 - 'Physics'
-- 'Math'
+- 'Mathematics'
 - 'Geology'
 - 'Astronomy'
-- 'Computer science'
+- 'Computer Science'
 - 'Other'
 
 gems:
