@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+An online science encyclopedia that includes notes on various topics in math and science. Still a work in progress.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This website is powered using [Jekyll](http://jekyllrb.com/) and [GitHub Pages](http://github.com/)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you would like to contribute, please email me at <a href="mailto:{{ site.email }}">{{site.email}}</a>. Thanks!

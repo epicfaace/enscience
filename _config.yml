@@ -1,6 +1,6 @@
 # Site settings
 title: Enscience
-email: aramaswamis@gmail.com
+email: ashwin@enscience.me
 description: > # this means to ignore newlines until "baseurl:"
   An online science encyclopedia that includes notes on various topics in math and science. Still a work in progress.
 baseurl: "" # the subpath of your site, e.g. /blog/
