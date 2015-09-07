@@ -27,7 +27,7 @@ $$\zeta (1) = \infty$$ because the harmonic series diverges.
 
 $$\zeta (2) = \frac{\pi ^2}{6}$$. The problem of finding an exact sum for this value is known as ***Basel's problem***, which was solved by Leonhard Euler.
 
-$$\zeta (3) = \frac{\pi ^2}{6}$$. This value has been given the name ***Apery's constant***. No one has been able to find an analytic (exact) solution to this yet.
+$$\zeta (3) \approx 1.202... $$. This value has been given the name ***Ap&eacute;ry's constant***. No one has been able to find an analytic (exact) solution to this yet.
 
 ##Riemann hypothesis
 The ***Riemann hypothesis*** is one of the most important unsolved problems in number theory. It states that every non-trivial zero of the function $$\zeta (s)$$ has real part $$\frac{1}{2}$$.
