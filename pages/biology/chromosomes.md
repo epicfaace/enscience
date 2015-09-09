@@ -11,7 +11,7 @@ redirect_from: []
 ###Lampbrush chromosomes
 ***Lampbrush chromosomes*** are formed at the end of oogenesis (when meiosis produces egg cells) in all animals except for mammals.
 
-They are meiotic half-bivalent -- basically, a pair of homologous chromosomes that is split in two. They contain ***chromomeres*** (condensed parts of DNA), from which asymmetric ***loops** extend.
+They are meiotic half-bivalent -- basically, a pair of homologous chromosomes that is split in two. They contain ***chromomeres*** (condensed parts of DNA), from which asymmetric ***loops*** extend.
 
 <img src="/images/lampbrush chrs.png">
 
@@ -27,8 +27,12 @@ Many times, many polytene chromosomes join their centromeres to form a common **
 <img src="/images/chromocenter.gif">
 
 ####Types of polyteny
-<img src="/images/polytene types.gif" height="300px" style="float:right;">
-In ***classical polyteny***, all chromatids conjugate (join together) perfectly (a. In ***cryptic polyteny***, chromatid conjugation is only partial (b). If only one pair of chromatids is connected, "pompon-like" chromosomes form (c).
+<img  class="small" src="/images/polytene types.gif">
+In ***classical polyteny***, all chromatids conjugate (join together) perfectly (a).
+
+In ***cryptic polyteny***, chromatid conjugation is only partial (b).
+
+If only one pair of chromatids is connected, "pompon-like" chromosomes form (c).
 
 ##Sources
 * [Introduction to Lampbrush Chromosomes](http://projects.exeter.ac.uk/lampbrush/downloads/Introduction%20to%20lampbrush%20chromosomes%20(1).pdf)

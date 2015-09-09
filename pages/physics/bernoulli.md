@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Bernoulli's Equation
-category:  Chemistry
+category:  Physics
 permalink: /Bernoulli/
 redirect_from:
 - /Venturi/

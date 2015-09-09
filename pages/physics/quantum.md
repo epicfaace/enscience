@@ -1,0 +1,1 @@
+http://lesswrong.com/lw/pf/distinct_configurations/
