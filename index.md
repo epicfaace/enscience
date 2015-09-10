@@ -4,7 +4,7 @@ title: Main
 tag: main
 ---
 
-Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my notes from math and all areas of science. They should be useful as a starting point for studying for quizbowl, or just to learn difficult topics in an easy way.
+Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my notes from math and all areas of science. They should be useful as a starting point for studying for quizbowl, science olympiad, or other academic competitions, or just to learn difficult topics in an easy way.
 
 ##List of topics
 

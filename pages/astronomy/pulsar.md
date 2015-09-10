@@ -15,9 +15,9 @@ The period of a pulsar is the time between pulses it emits. Periods are typicall
 <img src="/images/pulseperiod.gif">
 
 ###Glitches
-Sometimes pulsars suddenly speed up or slow down, changing their periods. They are thought to be caused by ***starquakes***. Starquakes occur in neutron stars when their crust suddenly shifts, like an earthquake on Earth.
+Sometimes pulsars suddenly speed up or slow down, drastically changing their periods. They are thought to be caused by ***starquakes***. Starquakes occur in neutron stars when their crust suddenly shifts, like an earthquake on Earth.
 
-<img src="/images/pulsarglitch.gif" class="small">
+<img src="/images/pulsarglitch.png" class="small">
 
 ###Millisecond pulsars
 Pulsars are divided into two types: millisecond and ordinary. A ***millisecond pulsar*** has a period of only a few milliseconds.
@@ -34,15 +34,25 @@ Pulsars are thought to be rotating neutron stars. They can be described by the *
 ##Notable examples
 
 ###Crab pulsar
-The Crab Nebula contains a pulsar in its center.
+<img src="/images/pulsarCrab.png" class="small">
 
-<img src="/images/pulsarCrab.gif" class="small">
+The Crab Nebula contains a pulsar in its center.
 
 ###Hulse–Taylor binary pulsar
 
-The ***Hulse–Taylor binary pulsar*** displayed a slow increase in its period, which was shown to be caused by gravitational waves, thus confirming a key part of the theory of general relativity.
+The ***Hulse–Taylor binary pulsar*** was the first binary pulsar to be observed. Measurements confirmed that it has a slow decrease in its period. This decrease provided evidence for the existence of ***gravitational waves***, thus confirming a key part of the theory of general relativity.
+
+<img src="/images/hulsetaylor.gif">
+
+####Gravitational waves
+***Gravitational waves*** are radiation caused by massive objects that move around in spacetime. They are predicted by the theory of general relativity. As stars in a binary system emit gravitational waves, they lose energy, so they move closer together and faster, causing the period to decrease.
+
+Gravitational waves have not been directly observed yet. ***LIGO*** (Laser Interferometer Gravitational-Wave Observatory) is an ongoing experiment that aims to detect gravitational waves.
+
+
 
 ##Sources
 * [An Introduction to Pulsars](http://www.atnf.csiro.au/outreach/education/everyone/pulsars/index.html)
 * [Glitch](http://astronomy.swin.edu.au/cosmos/G/Glitch)
 * [Pulsar Timing](http://astronomy.swin.edu.au/cosmos/P/Pulsar+Timing)
+* [PSR 1913+16 (Hulse–Taylor binary pulsar)](http://www.astro.cornell.edu/academics/courses/astro201/psr1913.htm)
