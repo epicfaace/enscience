@@ -2,7 +2,7 @@
 layout: article
 title: Standard Model
 category:  Astronomy
-permalink: /chromosomes/
+permalink: /standard_model/
 redirect_from: []
 ---
 
