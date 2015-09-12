@@ -76,7 +76,7 @@ A ***P-Pdot diagram*** is used to show the lifecycle of pulsars. Pulsars are bor
 ###Pulsar dispersion
 
 <img src="/images/pulsarDispersion.gif" class="medium left">
-Pulses at higher frequencies reach Earth before pulses of lower frequencies. This is because pulses of lower frequency interact with free electrons in the interstellar medium. So, ***de-dispersion*** is needed to correct for this effect, creating a wave as is on the bottom.
+Pulses at higher frequencies reach Earth before pulses of lower frequencies. This is because pulses of lower frequencies interacti more with free electrons in the interstellar medium, while higher-frequency photons are less effected. So, ***de-dispersion*** is needed to correct for this effect, creating a wave as shown on the bottom.
 
 ***Dispersion measure*** is defined as the integrated column density of free electrons along the line of sight:
 <img src="/images/pulsarDM.gif">
