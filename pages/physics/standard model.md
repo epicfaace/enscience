@@ -56,7 +56,7 @@ There are three ***"generations"*** of quarks; each column in the table above is
 
 Like quarks, there are three generations of leptons. The first-generation leptons, electrons, are a lot more common than the others.
 
-***Charged leptons*** include the electron, muon, and tauon. Each have a charge of -1.
+***Charged leptons*** include the electron, muon, and tauon. Each has a charge of -1.
 
 Neutral leptons, also known as ***neutrinos***, also have three generations -- electron, muon, and tau neutrinos.
 

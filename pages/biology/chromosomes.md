@@ -27,7 +27,7 @@ Many times, many polytene chromosomes join their centromeres to form a common **
 <img src="/images/chromocenter.gif">
 
 ####Types of polyteny
-<img  class="small" src="/images/polytene types.gif">
+<img  class="small left" src="/images/polytene types.gif">
 In ***classical polyteny***, all chromatids conjugate (join together) perfectly (a).
 
 In ***cryptic polyteny***, chromatid conjugation is only partial (b).

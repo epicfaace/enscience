@@ -264,8 +264,18 @@ body {
     background-image: url('/images/Science-background.png');
 }
 
+
 img.small {
-    width:150px;
+    max-width:150px;
+    width:20%;
+}
+
+img.medium {
+    min-width:200px;
+    max-width:45%;
+}
+
+img.left {
     float:left;
     margin-right:10px;
 }
