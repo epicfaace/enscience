@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+aboutpg: true
 ---
 
 An online science encyclopedia that includes notes on various topics in math and science. Still a work in progress.

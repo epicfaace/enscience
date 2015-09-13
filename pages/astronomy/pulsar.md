@@ -24,9 +24,13 @@ The period of a pulsar is the time between pulses it emits. Periods are typicall
 <img src="/images/pulseperiod.gif">
 
 ###Glitches
-Sometimes pulsars suddenly speed up or slow down, drastically changing their periods. They are thought to be caused by ***starquakes***. Starquakes occur in neutron stars when their crust suddenly shifts, like an earthquake on Earth.
+Sometimes pulsars suddenly speed up in glitches, drastically changing their periods. They are thought to be caused by ***starquakes***. Starquakes occur in neutron stars when their crust suddenly shifts, like an earthquake on Earth.
 
 <img src="/images/pulsarglitch.png" class="small left">
+
+In a starquake, the neutron star shrinks to become more spherical. This decreases the moment of inertia, thus increasing angular momentum by conservation of energy. The pulsar speeds up and its period decreases.
+
+<img src="/images/pulsarglitchShape.png" class="small left">
 
 ###Millisecond pulsars
 Pulsars are divided into two types: millisecond and ordinary. A ***millisecond pulsar*** has a period of only a few milliseconds. Millisecond pulsars are found in the bottom left of the <a href="#P-Pdot diagram">P-Pdot diagram</a>; they have a small period that varies only very slightly.

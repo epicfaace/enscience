@@ -24,7 +24,7 @@ The Faraday Effect is caused when light travels through the interstellar medium 
 
 $$\theta = RM \lambda ^2$$
 
-This time, the angle is proportional to the square of the wavelength. RM is known as the rotation measure and characterizes the effect's strength.
+This time, the angle is proportional to the square of the wavelength. RM is known as the ***rotation measure*** and characterizes the effect's strength.
 
 ##Sources
 * [Faraday Effect (Wikipedia)](https://en.wikipedia.org/wiki/Faraday_effect)

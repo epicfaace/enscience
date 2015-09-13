@@ -15,9 +15,9 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {% for pg in site.pages %}
-            {% if pg.title =='About' %}
+            {% if pg.aboutpg %}
               <li {% if pg.title == page.title %}class="active"{% endif %}>
-                <a href="{{site.baseurl}}{{pg.url}}">About</a>
+                <a href="{{site.baseurl}}{{pg.url}}">{{pg.title}}</a>
               </li>
               {% endif %}
         {% endfor %}
