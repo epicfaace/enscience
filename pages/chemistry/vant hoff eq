@@ -1,0 +1,21 @@
+---
+layout: article
+title: Van't Hoff Equation
+category:  unfinished
+permalink: /vant_hoff_eq/
+redirect_from:
+---
+
+##Derivation
+
+The Van't Hoff equation can be derived from the ***Gibbs-Helmholtz equation***, which states that:
+
+$$\left( \frac{\partial (G/T) } {\partial T} \right)_p = - \frac {H} {T^2}$$
+
+Regular form:
+
+$$\frac{d}{dT} K_p = \frac{\delta H}{RT^2}
+
+
+##Sources
+* [Van't Hoff Equation (Youtube)](https://www.youtube.com/watch?v=s37fKHk8HNE&index=10&list=PLm8ZSArAXicJcL7aDld9hc802LdxJOaph)

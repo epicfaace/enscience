@@ -1,0 +1,21 @@
+---
+layout: article
+title: Glass transition
+category:  Chemistry
+permalink: /glass_transition/
+redirect_from:
+---
+
+##Introduction
+The ***glass transition temperature*** is the temperature at which amorphous substances turn from a rubber-like state to a glass (a brittle, hard state).
+
+###Kauzmann's paradox
+Kauzmann's paradox states that if you supercool a liquid below Tg, then eventually at low enough temperatures, you can extrapolate that the entropy difference between the supercooled liquid and the glass will be 0.
+
+<img src="/images/KauzmannParadox.png">
+
+It is paradoxical that a liquid could have the same entropy as a solid! To resolve this, Kauzmann proposed that below the ***Kauzmann temperature*** (Tk), there would be no distinction between the supercooled liquid and the glass. Others have proposed a second "glass transition temperature" between the supercooled liquid and the glass phase.
+
+##Sources
+* [Glass transition (Wikipedia)](https://en.wikipedia.org/wiki/Glass_transition)
+* [What is Kauzmann's paradox - Quora](https://www.quora.com/What-is-Kauzmanns-paradox)
