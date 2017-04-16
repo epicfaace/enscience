@@ -7,7 +7,7 @@ redirect_from: [/proline/, /glycine/]
 ---
 
 ##Proline
-<img class="small left" src="/images/proline.png">
+<img class="small left" src="images/proline.png">
 
 ***Proline*** is especially rigid because its side chain is attached to the protein backbone twice. So, it can introduce kinks in alpha helices -- it is known as a ***"helix-breaker."***
 

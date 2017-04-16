@@ -7,7 +7,7 @@ redirect_from: []
 ---
 
 ##Introduction
-<img src="/images/stdmodel.png">
+<img src="images/stdmodel.png">
 
 ##Fermions vs Bosons
 ***Fermions*** are particles that obey the ***Pauli exclusion principle*** -- two fermions cannot occupy the same quantum state. This means that two fermions cannot be in the same place at the same time. They usually include particles of matter, and they have half-integer spin.
@@ -46,13 +46,13 @@ Three ***quarks*** make up a hadron (protons and neutrons). They are bound toget
 * A proton is made of one two up quarks and one down quark.
 * A neutron is made of one up quark and two down quarks.
 
-<img src="/images/stdmodelQuarks.png">
+<img src="images/stdmodelQuarks.png">
 
 ####Generations
 There are three ***"generations"*** of quarks; each column in the table above is a new generation. Each generation is similar to the previous one, except for that it has a lot more mass. The first generation is made of up and down quarks, which make up more common matter such as protons and neutrons. The other quarks, however, are more unstable and are less common.
 
 ###Leptons
-<img src="/images/stdmodelLeptons.png">
+<img src="images/stdmodelLeptons.png">
 
 Like quarks, there are three generations of leptons. The first-generation leptons, electrons, are a lot more common than the others.
 

@@ -16,14 +16,14 @@ It can also be measured in Weber per meter squared (A ***weber*** is the measure
 ###Lorentz force law
 The ***Lorentz force law*** defines both the electric and magnetic fields:
 
-<img src="/images/lorfor.gif">
+<img src="images/lorfor.gif">
 
 Since $$F = qvB$$, B is a vector perpendicular to both F and q.
 
 ##Cyclotron
 A ***cyclotron*** is a particle accelerator that uses a magnetic force to make moving charges move in a circular motion. This is because the magnetic force acts perpendicular to the direction of motion, "bending" the path towards the center.
 
-<img src = "/images/cyclotron.gif">
+<img src = "images/cyclotron.gif">
 
 An alternating electric field is applied at the "dees" of the cyclotron (two hollow electrodes opposite from each other), which causes the particles to accelerate -- they move faster and faster. The particles then move in a spiral path.
 

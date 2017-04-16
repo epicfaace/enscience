@@ -9,7 +9,7 @@ redirect_from:
 ##Introduction
 The ***Lagrangian points*** are five points at which a smaller object can maintain a stable position with the Earth and the Sun -- the gravitational pull of the earth and the Sun *exactly equals* the centripetal force required for the third object to move with them.
 
-<img src="/images/lagrpts.jpg">
+<img src="images/lagrpts.jpg">
 
 ##L4 and L5
 L4 and L5 form the apex of two equilateral triangles that have the Sun and the Earth as their vertices. They are stable, whereas L1, L2, and L3, are unstable.
@@ -20,7 +20,7 @@ L4 and L5 form the apex of two equilateral triangles that have the Sun and the E
 ##Reason for existence
 All Lagrangian points are located where the gravitational force is zero. Look at a potential energy graph:
 
-<img src="/images/lagrpotential.jpg">
+<img src="images/lagrpotential.jpg">
 
 L1, L2, and L3 are located at "saddle points" -- the potential reaches a maximum. So, it is very easy for them to escape; they are in ***unstable equilibrium***.
 

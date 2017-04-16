@@ -13,7 +13,7 @@ The ***Coriolis effect*** is the apparent deflection of an object's trajectory w
 <iframe width="360" height="180" src="http://video.mit.edu/embed/4407/" frameborder="0"></iframe>
 
 Illustration of effect on the earth's rotation:
-<img src="/images/coriolisEarth.gif">
+<img src="images/coriolisEarth.gif">
 
 ##Coriolis force
 Equation for the ***Coriolis force*** ($$\omega$$ is angular velocity, $$v$$ is linear velocity):

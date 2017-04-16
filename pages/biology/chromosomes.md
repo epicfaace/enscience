@@ -13,7 +13,7 @@ redirect_from: []
 
 They are meiotic half-bivalent -- basically, a pair of homologous chromosomes that is split in two. They contain ***chromomeres*** (condensed parts of DNA), from which asymmetric ***loops*** extend.
 
-<img src="/images/lampbrush chrs.png">
+<img src="images/lampbrush chrs.png">
 
 The loops are the location of active RNA transcription. They help in rapid development and growth of the egg.
 
@@ -24,10 +24,10 @@ Polytene chromosomes are formed through ***endomitosis***, in which DNA replicat
 
 Many times, many polytene chromosomes join their centromeres to form a common ***chromocenter***:
 
-<img src="/images/chromocenter.gif">
+<img src="images/chromocenter.gif">
 
 ####Types of polyteny
-<img  class="small left" src="/images/polytene types.gif">
+<img  class="small left" src="images/polytene types.gif">
 In ***classical polyteny***, all chromatids conjugate (join together) perfectly (a).
 
 In ***cryptic polyteny***, chromatid conjugation is only partial (b).
