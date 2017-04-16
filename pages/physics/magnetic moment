@@ -15,7 +15,7 @@ The torque (torque exerted by the magnetic force) is equal to the cross product 
 
 ###Formula
 
-<img src="/images/solenoid.png" style="small"><br>
+<img src="{{ site.url }}/images/solenoid.png" style="small"><br>
 A ***solenoid*** is a coil of wire that produces a magnetic field when an electric current is passed through it. The magnetic moment is defined as the current times the area times N (number of loops):
 
 $$\mu = NIA$$
