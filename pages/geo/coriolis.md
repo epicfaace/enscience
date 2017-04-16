@@ -6,7 +6,7 @@ permalink: /Coriolis/
 redirect_from:
 ---
 
-##Coriolis effect
+## Coriolis effect
 
 The ***Coriolis effect*** is the apparent deflection of an object's trajectory when in a rotating reference frame. The object actually travels in a straight line, but since the reference frame is rotating, it appears to curve.
 
@@ -15,12 +15,12 @@ The ***Coriolis effect*** is the apparent deflection of an object's trajectory w
 Illustration of effect on the earth's rotation:
 <img src="images/coriolisEarth.gif">
 
-##Coriolis force
+## Coriolis force
 Equation for the ***Coriolis force*** ($$\omega$$ is angular velocity, $$v$$ is linear velocity):
 
 $$F = -2m \omega v$$
 
-##Coriolis frequency
+## Coriolis frequency
 The ***Coriolis frequency*** $$f$$ (known as Coriolis parameter or Coriolis coefficient) is equal to:
 
 $$f = 2 \omega sin \phi$$
@@ -31,7 +31,7 @@ $$F = f * v$$
 
 where $$v$$ is the velocity.
 
-####Rossby parameter
+#### Rossby parameter
 
 The ***Rossby parameter*** $$\beta$$ describes the rate of change of the Coriolis parameter $$f$$ with respect to meridians (y). It is defined as:
 
@@ -39,7 +39,7 @@ $$\beta = \frac{\partial f}{\partial y} = \frac{1}{a} \frac{d}{d\phi}  (2 \omega
 
 where $$\phi$$ is the latitude and $$a$$ is the radius of the Earth.
 
-##Rossby number
+## Rossby number
 
 The ***Rossby number*** is defined as the ratio of intertial to Coriolis force.
 
@@ -48,14 +48,14 @@ $$Ro = \frac{F_{\text{inertial}}}{F_{\text{Coriolis}}}$$
 * A system with a low Rossby number is dominated by Coriolis forces.
 * A system with a high Rossby number is dominated by inertial forces.
 
-##Cyclostrophic and Geostrophic Balance
+## Cyclostrophic and Geostrophic Balance
 
 When the Coriolis force is low, *inertial* forces dominate -- the pressure gradient force (from high pressure to low pressure) and the centrifugal force. This is called ***cyclostrophic balance***, which happens in tornadoes and cyclones.
 
 In low-pressure systems, the Coriolis force is significant. Therefore, ***geostrophic balance*** occurs – a balance between Coriolis and pressure gradient forces.
 	Ashwin Ramaswami.
 
-###Sources
+### Sources
 * [MIT Video on Coriolis Effect](http://video.mit.edu/watch/the-coriolis-effect-4407/)
 * [Coriolis Force: An Artifact of the Earth's Rotation](http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/fw/crls.rxml)
 * [The Coriolis Effect: A (Fairly) Simple Explanation](https://stratus.ssec.wisc.edu/courses/gg101/coriolis/coriolis.html)

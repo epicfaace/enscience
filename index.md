@@ -6,7 +6,7 @@ tag: main
 
 Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my notes from math and all areas of science. They should be useful as a starting point for studying for quizbowl, science olympiad, or other academic competitions, or just to learn difficult topics in an easy way.
 
-##List of topics
+## List of topics
 
 
 
@@ -18,7 +18,7 @@ Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my no
 			{% for page in site.pages %}
 				{% if page.category == categ %}
 					<li>
-						<a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
+						<a href="{{ page.url }}">{{ page.title }}</a>
 					</li>
 				{%endif%}
 			{% endfor %}
