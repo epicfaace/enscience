@@ -18,7 +18,7 @@ Welcome to the Encyclopedia of Science! Here is a collection of a bunch of my no
 			{% for page in site.pages %}
 				{% if page.category == categ %}
 					<li>
-						<a class="a" href="/enscience{{ page.url }}">{{ page.title }}</a>
+						<a class="a"  href="/enscience{{ page.url }}">{{ page.title }}</a>
 					</li>
 				{%endif%}
 			{% endfor %}
